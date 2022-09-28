@@ -1,3 +1,8 @@
+# program to calculate BMI using dictionary and if-else conditional statement 
+# Author:Aditi Kharche
+# Program date : September 28,2022 
+
+
 height = float(input("Enter the height in cm: "))  
 weight = float(input("Enter the weight in kg: "))  
 age = int(input("Enter the age: "))
