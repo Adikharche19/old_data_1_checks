@@ -3,6 +3,7 @@
 # Date= October3,2022
 
 
+
 num1 = int(input("Enter a number1: "))
 mod = num1 % 2
 num2 = int(input("Enter a number2: "))
